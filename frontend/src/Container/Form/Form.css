@@ -1,0 +1,17 @@
+#for {
+    margin-top: 28px;
+}
+
+#pname {
+    border-radius: 10px;
+    padding: 10px;
+}
+
+#sav {
+    margin: 12px;
+    width: 13%;
+    box-shadow: transparent;
+    border: none;
+    font-weight: bolder;
+    font-size: large;
+}
